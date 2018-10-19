@@ -1,4 +1,4 @@
-![Image](https://www.xda-developers.com/files/2017/02/android-internet-of-things.png)
+![Image](asset/githubbanner.jpg)
 # Calculadora de Tiempo
 
 Aplicación Android que muestra el tiempo transcurrido entre dos fechas en formato humano, como por ejemplo, "1 año, 2 días, 3 horas, 20 minutos, 30 segundos. También posee la opción de comparar con la fecha del momento.
