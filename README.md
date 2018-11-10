@@ -6,10 +6,10 @@ Aplicación Android que muestra el tiempo transcurrido entre dos fechas en forma
 ### Demo
 
 Diferencia entre dos fechas
-![Image](asset/demo_datediff.jpg)
+![Image](asset/demodatediff.jpg)
 
 Compara momento exacto
-![Image](asset/demo_moment.jpg)
+![Image](asset/demomoment.jpg)
 
 ### Creado y Mantenido por
 [Javier Bello](https://github.com/JavierBelloRD)([@JavierBelloRD1](https://www.twitter.com/JavierBelloRD1))
