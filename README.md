@@ -6,9 +6,11 @@ Aplicación Android que muestra el tiempo transcurrido entre dos fechas en forma
 ### Demo
 
 Diferencia entre dos fechas
+<br>
 ![Image](asset/demodatediff.jpg)
 
 Compara momento exacto
+<br>
 ![Image](asset/demomoment.jpg)
 
 ### Creado y Mantenido por
