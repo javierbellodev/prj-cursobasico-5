@@ -17,11 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".CalcTimeActivity" />
-        <activity android:name=".CalcMomentActivity">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=".CalcMomentActivity"></meta-data>
-        </activity>
+        <activity android:name=".CalcMomentActivity"></activity>
     </application>
 
 </manifest>
